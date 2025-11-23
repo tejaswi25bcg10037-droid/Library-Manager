@@ -1,5 +1,3 @@
-Below is a README file suitable for your Python-based library management system script. This README describes project functionality, usage, dependencies, and how the overdue calculation logic works.
-
 Library Management System
 Overview
 This is a simple Python-based Library Management System designed to keep track of borrowed books, borrowers, due dates, and calculate overdue fines automatically. It uses basic Python data structures and the datetime module, making it easy to run and extend.
